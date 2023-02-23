@@ -1,0 +1,38 @@
+
+.img img{
+    width: 100px;
+    height: 50px;
+}
+.social img{
+    width: 50px;
+    height: 50px;
+
+}
+#fixed{
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    overflow: hidden;
+}
+.card-group{
+    
+}
+.main{
+    background-color: black;
+}
+.maintext{
+    padding-top: 10rem;
+    
+}
+.text-1{
+    font-size: 60px;
+}
+.text-2{
+    font-size: 50px;
+}
+.text-3{
+    font-size: 25px;
+    font-weight: bolder;
+}
